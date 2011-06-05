@@ -8,6 +8,9 @@ Task has been done in the ISIS Proteus. Project files is attached.
 How it work
 
 
+
+
+
 -----------------------------------------------------
 Metrological characteristics
 
